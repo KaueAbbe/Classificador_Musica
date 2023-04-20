@@ -4,7 +4,7 @@
 
 No meu blog escrevi sobre minha experiência em três etapas (que ainda está em desenvolvimento):
 1. [Dia 1](https://medium.com/@KaueAbb/7days-of-code-analisando-os-dados-a84e08ab13fc): Onde eu mostro que o rock dos anos 80 não é mais tão popular quanto foi por meio da minha análise explortória. Também conto como preparei um guia para análise, como solucionei minhas dificuldades e empecilhos.
-2. [Dia 2](): Ainda em desenvolvimento. Narro como criei o modelo do zero até a validação, o que fiz e como tomei minhas decisões. 
+2. [Dia 2](https://medium.com/@KaueAbb/7days-of-code-prevendo-popularidade-7e044ef0e02a): Narro como criei o modelo do zero até a validação, o que fiz e como tomei minhas decisões. 
 3. [Dia 3](): Ainda em desenvolvimento. Comparo o que eu fiz com o que poderia ter feito, dando ênfase na aprendizagem que obtive e quais escolhas mudarei no futuro. 
 
 No [meu Instagram](https://www.instagram.com/kaue.cientifico/) de divulgação científica fiz um vídeo registro para cada dia, explicando o que eu tinha feito e como tinha chegado neste pensamento de uma forma acessível. 
